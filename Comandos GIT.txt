@@ -1,0 +1,6 @@
+git clone => caminho/link do repositorio
+git add . => todos os arquivos para adicionar ao repositorion (ou git -a)
+git commit -m => o -m serve para colocar uma mensagem, e  texto da mensagem deve está 
+		 entre " "
+
+git push origin main => envia todos os arquivos para o repositorio no GitHub
